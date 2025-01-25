@@ -1,0 +1,1 @@
+# Amazon Automation ## Description This project automates the process of: 1. Searching for a product on Amazon. 2. Adding it to the cart. 3. Proceeding to checkout and adding a payment card. ## Prerequisites - Java 8+ - Maven - Chrome Browser ## Setup 1. Clone the repository:
